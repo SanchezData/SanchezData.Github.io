@@ -22,7 +22,7 @@ What are the top math districts in the state?
 
 ### Projects Listed
 
-- [iFodd Market Analysis Using Excel](https://www.linkedin.com/pulse/analyzing-ifood-sales-throughout-year-alejandro-sanchez-cid1c%3FtrackingId=0%252F8jj021RGSAZs%252FO5XR6yg%253D%253D/?trackingId=0%2F8jj021RGSAZs%2FO5XR6yg%3D%3D)
+- [iFood Market Analysis Using Excel](https://www.linkedin.com/pulse/analyzing-ifood-sales-throughout-year-alejandro-sanchez-cid1c%3FtrackingId=0%252F8jj021RGSAZs%252FO5XR6yg%253D%253D/?trackingId=0%2F8jj021RGSAZs%2FO5XR6yg%3D%3D)
 - [Massachusetts Education Analysis Using Tableau](https://www.loom.com/share/8090578586ba46e0acfeb7c470133aa5)
 
 ---
