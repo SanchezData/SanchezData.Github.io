@@ -12,7 +12,7 @@ For this step by step analysis, I go over iFood's data to create a better market
 
 ---
 #### [Massachusetts Education Analysis](https://www.loom.com/share/8090578586ba46e0acfeb7c470133aa5)
-[<img src="https://www.canva.com/design/DAF9i0fr3uY/l7ht6RnF05d8WeAbkFALUA/view"/>](https://www.loom.com/share/8090578586ba46e0acfeb7c470133aa5)
+[<img src="https://massedu.my.canva.site"/>](https://www.loom.com/share/8090578586ba46e0acfeb7c470133aa5)
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
