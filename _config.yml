@@ -1,8 +1,9 @@
 title: Alex Sanchez # your name (or website title) here
 logo: "/images/Profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I love data! 
-  Data Driven Teacher.  <br><br>
+  Data Analyst with a love of helping others and problem solving.  My strong communication 
+  skills along with my technicals skills in SQL, Excel, and Tableau allow me to transform
+  data into impactful insights that lead to the best business decisions.<br><br>
   <a href="https://www.linkedin.com/in/ale-san/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
